@@ -1,7 +1,7 @@
 ## GitHub团队协同开发流程(LXB)
 ##### author：刘小波
 ##### source:[来源](https://github.com/livoras/blog/issues/7);
-####1、工作流
+####1、仓库AND分支
 ![image](https://raw.githubusercontent.com/livoras/blog-images/master/git/centr-decentr@2x.png)
 
 ####2、基本概念
@@ -61,7 +61,7 @@
    ![](https://raw.githubusercontent.com/livoras/blog-images/master/git/fb@2x.png);
     
 
-#### 2、工作流（worklow）
+#### 3、工作流（worklow）
     Step 1：源仓库的构建
         这一步通常由项目发起人来操作，我们这里把管理员设为LXBneo4j，假设LXBneo4j已经为
         我们建立起了一个源仓库LXBneo4j/git-demo，并且已经初始化了两个永久性分支master和
