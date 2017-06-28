@@ -1,5 +1,6 @@
 ## GitHub团队协同开发流程(LXB)
 ##### author：刘小波
+##### source:[来源](https://github.com/livoras/blog/issues/7);
 ####1、工作流
 ![image](https://raw.githubusercontent.com/livoras/blog-images/master/git/centr-decentr@2x.png)
 
